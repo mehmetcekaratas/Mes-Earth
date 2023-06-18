@@ -2,10 +2,14 @@
 
 
 ### Kurulum
-This dashboard page is designed for the project management. This design contains task managers, recent messages, progress reports, profile member, premium card, etc.
+Uygulamayı Android Studio ile kullanabilirsiniz. Gerekli flutter ve dart kurulumlarını tamamladıktan sonra projeyi açtığınızda paketlerin yüklenmesi için aşağıdaki komutu çalıştırın
+```bash
+flutter pub get
+```
+Bu aşamadan sonra çalıştır kısmına basmanız yeterlidir.
 
+##Video ve Görsel
 
-**Dependencies:**
 
 
 MesEarth 2023 | Tüm Hakları Saklıdır.
